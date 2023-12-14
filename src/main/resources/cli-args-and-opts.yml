@@ -1,0 +1,11 @@
+customTypesPackages: {}
+options:
+  - aliases:
+    - -v
+    - --value
+    description: Value of something
+    withParameter: true
+    type: INTEGER
+    typeConfig: {}
+    mandatory: true
+
